@@ -1,6 +1,6 @@
 # WEBSERVER
 
-## Project Title: Web Server Implementation
+## Project Title: MULTI THREADED WEB SERVER
 
 ### Overview
 This project implements a simple web server in Java that can handle client requests using three different threading models: Single-threaded, Multi-threaded, and Thread Pool. The server responds to client requests with a greeting message. The performance of each model can be tested using Apache JMeter.
